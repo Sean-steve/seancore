@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sean-steve.github.io/seancore/sitemap.xml
